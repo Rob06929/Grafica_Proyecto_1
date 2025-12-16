@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|c:\\users\\dell\\documents\\proggrafica\\semestre 1-2025\\grafica_1_25\\grafica_1_25\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\iclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\iclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\grafica_1_25\\eventosteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973D628F-E750-4A6B-B09A-581BD9D7C007}|Grafica_1_25\\Grafica_1_25.csproj|solutionrelative:grafica_1_25\\eventosteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Object.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Object.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Object.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Object.cs",
+              "RelativeToolTip": "Grafica_1_25\\Object.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA0wD0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:33:16.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Part.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Part.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Part.cs",
+              "RelativeToolTip": "Grafica_1_25\\Part.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAGcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:32:30.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Stage.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Stage.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Stage.cs",
+              "RelativeToolTip": "Grafica_1_25\\Stage.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T09:57:54.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventosTeclado.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\EventosTeclado.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\EventosTeclado.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\EventosTeclado.cs",
+              "RelativeToolTip": "Grafica_1_25\\EventosTeclado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:35:10.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Game.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Game.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Game.cs",
+              "RelativeToolTip": "Grafica_1_25\\Game.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwHAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:34:35.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Face.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Face.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Face.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Face.cs",
+              "RelativeToolTip": "Grafica_1_25\\Face.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:29:03.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Vertex.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Vertex.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Vertex.cs",
+              "RelativeToolTip": "Grafica_1_25\\Vertex.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:26:37.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClass.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\IClass.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\IClass.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\IClass.cs",
+              "RelativeToolTip": "Grafica_1_25\\IClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:25:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Program.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Program.cs",
+              "RelativeToolTip": "Grafica_1_25\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:12:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transformation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Transformation.cs",
+              "RelativeDocumentMoniker": "Grafica_1_25\\Transformation.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\ProgGrafica\\SEMESTRE 1-2025\\Grafica_1_25\\Grafica_1_25\\Transformation.cs",
+              "RelativeToolTip": "Grafica_1_25\\Transformation.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:59:29.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

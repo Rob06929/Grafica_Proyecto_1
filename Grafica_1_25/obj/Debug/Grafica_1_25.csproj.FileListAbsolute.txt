@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\Grafica_1_25.exe.config
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\Grafica_1_25.exe
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\Grafica_1_25.pdb
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\OpenTK.dll
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\OpenTK.pdb
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\bin\Debug\OpenTK.xml
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\obj\Debug\Grafica_1_25.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\obj\Debug\Grafica_1_25.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\obj\Debug\Grafica_.D0B1520F.Up2Date
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\obj\Debug\Grafica_1_25.exe
+C:\Users\DELL\Documents\ProgGrafica\SEMESTRE 1-2025\Grafica_1_25\Grafica_1_25\obj\Debug\Grafica_1_25.pdb
